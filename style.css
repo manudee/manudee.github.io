@@ -6,4 +6,14 @@ body{
 
 h1, p {
 	color: white;
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+
+header{
+	margin: auto;
+	width: 50%;
+	height:400px;
+	background-color: pink;
 }
